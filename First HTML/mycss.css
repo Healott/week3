@@ -1,0 +1,46 @@
+body{
+  font-family: Arial;
+  background-color: #074747;
+  font-size: 110%;
+}
+header{
+  text-align: center;
+  background-color: #003231;
+  padding: 15px;
+  margin: 15px;
+}
+h1{
+  color: #FDA915;
+}
+nav{
+  text-transform: lowercase;
+  font-family: Arial;
+  font-size: 150%;
+  text-align: center;
+}
+
+h2{
+  background-color: #003231;
+  color: #FA6513;
+  padding: 15px;
+}
+li{
+  color: #FDA915;
+}
+summary{
+  font-style: italic;
+  color: #FDA915;
+}
+details{
+
+  font-style: italic;
+}
+footer{
+
+  margin-top: 25px;
+  padding: 5px;
+  background-color: #003231;
+}
+p{
+  color: #FDA915;
+}
